@@ -1,7 +1,4 @@
----
-title: LOS - 12번 darkknight
-category: Lord of SQL Injection
----
+
 
 # [12] darkknight
 

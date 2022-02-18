@@ -1,7 +1,4 @@
----
-title: LOS - 31번 zombie
-category: Lord of SQL Injection
----
+
 
 # [31] zombie
 

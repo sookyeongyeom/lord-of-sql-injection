@@ -1,7 +1,4 @@
----
-title: LOS - 24번 evil_wizard
-category: Lord of SQL Injection
----
+
 
 # [24] evil_wizard
 

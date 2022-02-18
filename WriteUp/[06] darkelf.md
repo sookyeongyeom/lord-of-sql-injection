@@ -1,7 +1,4 @@
----
-title: LOS - 6번 darkelf
-category: Lord of SQL Injection
----
+
 
 # [06] darkelf
 

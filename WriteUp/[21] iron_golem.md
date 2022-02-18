@@ -1,7 +1,4 @@
----
-title: LOS - 21번 iron_golem
-category: Lord of SQL Injection
----
+
 
 # [21] iron_golem
 

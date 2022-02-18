@@ -1,7 +1,3 @@
----
-title: LOS - 3번 goblin
-category: Lord of SQL Injection
----
 
 # [03] goblin
 

@@ -1,8 +1,4 @@
----
-title: LOS - 8번 troll
-date: 21-12-07 07:00:00 + 0900
-category: Lord of SQL Injection
----
+
 
 # [08] troll
 

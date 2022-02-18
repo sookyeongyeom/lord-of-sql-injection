@@ -1,7 +1,4 @@
----
-title: LOS - 4번 orc
-category: Lord of SQL Injection
----
+
 
 # [04] orc
 

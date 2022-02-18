@@ -1,7 +1,4 @@
----
-title: LOS - 22번 dark_eyes
-category: Lord of SQL Injection
----
+
 
 # [22] dark_eyes
 

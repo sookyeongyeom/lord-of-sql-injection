@@ -1,9 +1,6 @@
----
-title: LOS - 10번 skeleton
-category: Lord of SQL Injection
----
 
-# 10번 skeleton
+
+# [10] skeleton
 
 ## 문제
 

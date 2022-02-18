@@ -1,7 +1,3 @@
----
-title: LOS - 5번 wolfman
-category: Lord of SQL Injection
----
 
 # [05] wolfman
 

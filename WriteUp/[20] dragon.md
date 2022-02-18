@@ -1,7 +1,3 @@
----
-title: LOS - 20번 dragon
-category: Lord of SQL Injection
----
 
 # [20] dragon
 

@@ -1,7 +1,4 @@
----
-title: LOS - 17번 assassin
-category: Lord of SQL Injection
----
+
 
 # [17] assassin
 

@@ -1,7 +1,3 @@
----
-title: LOS - 23번 hell_fire
-category: Lord of SQL Injection
----
 
 # [23] hell_fire
 

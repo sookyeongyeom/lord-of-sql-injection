@@ -1,7 +1,4 @@
----
-title: LOS - 29번 phantom
-category: Lord of SQL Injection
----
+
 
 # [29] phantom
 

@@ -1,7 +1,4 @@
----
-title: LOS - 18번 nightmare
-category: Lord of SQL Injection
----
+
 
 # [18] nightmare
 

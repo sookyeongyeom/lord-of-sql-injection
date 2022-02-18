@@ -1,7 +1,3 @@
----
-title: LOS - 27번 blue_dragon
-category: Lord of SQL Injection
----
 
 # [27] blue_dragon
 

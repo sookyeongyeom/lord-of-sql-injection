@@ -1,7 +1,4 @@
----
-title: LOS - 13번 bugbear
-category: Lord of SQL Injection
----
+
 
 # [13] bugbear
 

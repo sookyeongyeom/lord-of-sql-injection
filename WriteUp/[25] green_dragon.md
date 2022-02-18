@@ -1,7 +1,4 @@
----
-title: LOS - 25번 green_dragon
-category: Lord of SQL Injection
----
+
 
 # [25] green_dragon
 

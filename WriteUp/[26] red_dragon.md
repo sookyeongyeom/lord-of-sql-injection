@@ -1,7 +1,4 @@
----
-title: LOS - 26번 red_dragon
-category: Lord of SQL Injection
----
+
 
 # [26] red_dragon
 

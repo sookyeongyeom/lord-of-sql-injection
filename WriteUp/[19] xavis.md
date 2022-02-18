@@ -1,7 +1,4 @@
----
-title: LOS - 19번 xavis
-category: Lord of SQL Injection
----
+
 
 # [19] xavis
 

@@ -1,7 +1,4 @@
----
-title: LOS - 7번 orge
-category: Lord of SQL Injection
----
+
 
 # [07] orge
 

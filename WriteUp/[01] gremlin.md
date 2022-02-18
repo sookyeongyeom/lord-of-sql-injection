@@ -1,7 +1,3 @@
----
-title: LOS - 1번 gremlin
-category: Lord of SQL Injection
----
 
 # [01] gremlin
  

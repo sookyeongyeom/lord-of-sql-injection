@@ -1,8 +1,4 @@
----
-title: LOS - 9번 vampire
-date: 21-12-07 08:00:00 + 0900
-category: Lord of SQL Injection
----
+
 
 # [09] vampire
 

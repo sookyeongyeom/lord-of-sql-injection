@@ -1,7 +1,4 @@
----
-title: LOS - 14번 giant
-category: Lord of SQL Injection
----
+
 
 # [14] giant
 

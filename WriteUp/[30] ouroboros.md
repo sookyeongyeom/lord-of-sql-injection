@@ -1,7 +1,4 @@
----
-title: LOS - 30번 ouroboros
-category: Lord of SQL Injection
----
+
 
 # [30] ouroboros
 

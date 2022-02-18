@@ -1,7 +1,4 @@
----
-title: LOS - 11번 golem
-category: Lord of SQL Injection
----
+
 
 # [11] golem
 

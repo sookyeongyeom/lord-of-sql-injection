@@ -1,7 +1,4 @@
----
-title: LOS - 16번 succubus
-category: Lord of SQL Injection
----
+
 
 # [16] succubus
 
