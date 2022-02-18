@@ -1,7 +1,3 @@
----
-title: LOS - 28번 frankenstein
-category: Lord of SQL Injection
----
 
 # [28] frankenstein
 

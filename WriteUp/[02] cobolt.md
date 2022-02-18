@@ -1,7 +1,4 @@
----
-title: LOS - 2번 cobolt
-category: Lord of SQL Injection
----
+
 
 # [02] cobolt
 
